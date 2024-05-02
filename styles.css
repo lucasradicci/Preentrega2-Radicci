@@ -32,7 +32,7 @@ header{
 }
 main{
     background-color: beige;
-    color: red;
+    
     }
 .container{
     display: flex;
@@ -40,7 +40,7 @@ main{
     font-size: 20px;
     text-transform: uppercase;
 }
-main a{
+.container a{
     color: red;
     text-decoration: none;
     font-size: 20px;
@@ -48,10 +48,15 @@ main a{
 }
 .texto1{
     margin-right: 50px;
+    color: red
    
 }
 .texto2{
     margin-right: 50px;
+    color: red;
+}
+.texto3{
+    color: red;
 }
 footer{
     background-color: black;
@@ -104,7 +109,77 @@ footer p{
 .redes a:hover{
     color: blueviolet;
 }
+.call{
+    height: 100vh;
+    background-color: beige;
+    color: white;
+    
+   
+}
+    
+.call h1 {
+    color: blue;
+    font-weight: bold;
+}
+.call p{
+    font-size: 18px;
+    color: black;
+    margin-bottom: 15px;
+}
+.call img{
+    padding: 50px;
+    width: 100%;
+    background-size: cover;
+}
 
+.services h2{
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    
+}
+.service1 h3{
+    font-size: 25px;
+}
+.service1 p{
+    color: red;
+    font-size: 20px;
+}
+.service2 h3{
+    font-size: 25px;
+}
+.service2 p{
+    color: red;
+    font-size: 20px;
+}
+.service3 h3{
+    font-size: 25px;
+}
+.service3 p{
+    color: red;
+    font-size: 20px;
+}
+.service4 h3{
+    font-size: 25px;
+}
+.service4 p{
+    color: red;
+    font-size: 20px;
+}
+.service5 h3{
+    font-size: 25px;
+}
+.service5 p{
+    color: red;
+    font-size: 20px;
+}
+.service6 h3{
+    font-size: 25px;
+}
+.service6 p{
+    color: red;
+    font-size: 20px;
+}
 
 
 
