@@ -186,6 +186,28 @@ main h2{
 .container .col-xs-6 p{
     color: red; 
 }
+.container .col-xs-6 h2{
+    color: red;
+}
+
+/*inicio de media queries*/
+@media only screen and (min-width: 320px) and (max-width:1024px){
+    .header{
+        padding: 20px;
+    }
+    .logo{
+        font-size: 25px;
+    }
+    
+}
+@media only screen and (min-width: 320px) and (max-width: 1024px){
+    .footer{
+        padding: 20px;
+    }
+}
+/* fin de media queries*/
+
+
 
 
 
