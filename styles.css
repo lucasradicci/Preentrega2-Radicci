@@ -180,6 +180,9 @@ footer p{
     color: red;
     font-size: 20px;
 }
+.container .col-xs-4 p{
+    color: red;
+}
 
 
 
